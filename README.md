@@ -1,2 +1,2 @@
 # simpleRepo
-Chinmayi is nice!!
+Chinmayi!!
